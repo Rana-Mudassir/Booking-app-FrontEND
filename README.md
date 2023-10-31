@@ -5,7 +5,7 @@
 
 > # Aeroplane Booking App
 
-| Project Veiw Screenshots|
+| Project View Screenshots|
 |---------------------------------------|
 
 <div align="center">
