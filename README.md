@@ -1,18 +1,21 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-</div>
 
 
-> # Aeroplane Reservation API
-<!-- 
+
+> # Aeroplane Booking App
 
 | Project Veiw Screenshots|
 |---------------------------------------|
-<div align="center"><img src="./app/assets/images/recipe-app.png" alt="screenshot" width="auto" height="auto"/></div>| 
 
--->
+<div align="center">
+  <img src="./public/bookingapp2.PNG" width="400" height="300" alt="Project Screenshot">
+  <img src="./public/bookingapp3.PNG" width="400" height="300" alt="Project Screenshot">
+</div>
+<div align="center">
+  <img src="./public/foodapp3.PNG" width="400" height="300" alt="Project Screenshot">
+</div>
+
 
 
 # 📗 Table of Contents
@@ -37,9 +40,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Aeroplane Reservation API] <a name="about-project"></a>
-
-**[Aeroplane Reservation API]** is a rails API used to to reservae an aeroplane for purchase and uses JSON web token to authenticate user login, signup and logout.
+ 📖 [ Aeroplane Booking App(Collaborative Project) is an Responisve Aeroplane Reservation Web-App, which lets user to book a flight from available aeroplanes, select time and date, and choose other options.] <a name="about-project"></a>
 
 ## Link for the:<a href="https://github.com/ritikarawat220/Booking-app-BackEND"> Backend repository </a>
 
@@ -81,7 +82,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( )
+- [Live Demo Link](https://comforting-beijinho-4ad5b7.netlify.app/)
 
 ## Video demo <a name="live-demo"></a>  -->
 
