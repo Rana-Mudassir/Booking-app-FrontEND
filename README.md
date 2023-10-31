@@ -9,11 +9,8 @@
 |---------------------------------------|
 
 <div align="center">
-  <img src="./public/bookingapp2.PNG" width="400" height="300" alt="Project Screenshot">
-  <img src="./public/bookingapp3.PNG" width="400" height="300" alt="Project Screenshot">
-</div>
-<div align="center">
-  <img src="./public/foodapp3.PNG" width="400" height="300" alt="Project Screenshot">
+  <img src="./public/bookingapp2.PNG" width="500" height="400" alt="Project Screenshot">
+  <img src="./public/bookingapp3.PNG" width="500" height="400" alt="Project Screenshot">
 </div>
 
 
